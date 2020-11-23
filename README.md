@@ -8,11 +8,14 @@ Statistics and accepted paper list with **[arXiv](https://arxiv.org/) link** of 
 
 ## Conferences
 
-- [EMNLP 2020](emnlp-2020) 
-[![Watch the video](https://img.youtube.com/vi/8H0OFJBJHgI/maxresdefault.jpg)](https://youtu.be/8H0OFJBJHgI)
+- [EMNLP 2019](emnlp-2019)
 
 - [ACL 2020](acl-2020)
-- [EMNLP 2019](emnlp-2019)
+
+- [EMNLP 2020](emnlp-2020) 
+
+[![Watch the concept video](https://img.youtube.com/vi/8H0OFJBJHgI/maxresdefault.jpg)](https://youtu.be/8H0OFJBJHgI)
+
 
 ## Acceptance Rate
 
