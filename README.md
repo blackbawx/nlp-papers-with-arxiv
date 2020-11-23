@@ -14,7 +14,7 @@ Statistics and accepted paper list with **[arXiv](https://arxiv.org/) link** of 
 
 - [EMNLP 2020](emnlp-2020) 
 
-[![Watch the concept video](https://img.youtube.com/vi/8H0OFJBJHgI/maxresdefault.jpg)](https://youtu.be/8H0OFJBJHgI)
+[![Watch the concept video](https://img.youtube.com/vi/8H0OFJBJHgI/0.jpg)](https://youtu.be/8H0OFJBJHgI)
 
 
 ## Acceptance Rate
