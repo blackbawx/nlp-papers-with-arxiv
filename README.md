@@ -8,7 +8,9 @@ Statistics and accepted paper list with **[arXiv](https://arxiv.org/) link** of 
 
 ## Conferences
 
-- **[EMNLP 2020](emnlp-2020) (Update!)**
+- [EMNLP 2020](emnlp-2020) 
+[![Watch the video](https://img.youtube.com/vi/8H0OFJBJHgI/maxresdefault.jpg)](https://youtu.be/8H0OFJBJHgI)
+
 - [ACL 2020](acl-2020)
 - [EMNLP 2019](emnlp-2019)
 
